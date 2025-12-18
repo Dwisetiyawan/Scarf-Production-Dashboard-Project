@@ -1,2 +1,9 @@
 # Scarf Production Dashboard Project
-This project is created to help my coleague business in custom scarf production (@rajaslempang.jogja) for monitoring his production process., specifically in machine performance and productivity.
+
+## Project Background ##
+
+to monitor production performance with ease, displayed on single dashboard. The main informations to be displayed are accumulate productivity, downtime, and running hour, also average running hour, frequency of trouble occured for each machine and trouble type. 
+
+## Summary ##
+
+![Production Monitoring Dashboard]() 

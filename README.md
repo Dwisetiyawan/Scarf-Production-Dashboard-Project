@@ -7,7 +7,7 @@ This project is expected to build a production monitoring dahsboard that provide
 
 ## Summary ##
 
-![Production Monitoring Dashboard](https://github.com/Dwisetiyawan/Scarf-Production-Dashboard-Project/blob/main/Documentation/Production%20Monitoring%20Dashboard.mp4)
+![Production Monitoring Dashboard](https://github.com/Dwisetiyawan/Scarf-Production-Dashboard-Project/blob/main/Documentation/Production%20Monitoring%20Dashboard.gif)
 
 *Production Monitoring Dashboard*
 

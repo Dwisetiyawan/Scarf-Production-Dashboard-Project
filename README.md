@@ -3,6 +3,7 @@
 ## Project Background ##
 
 @rajaslempang.jogja is a growing custom scarf producer that provides customized embroidered scarves for graduation accessories with over thousand customers. @rajaslempang.jogja is capable of producing up to a hundred scarves per day. With a growing business, a production monitoring tool is needed to monitor production performance with ease, displayed on a single dashboard. The main information to be displayed is accumulated productivity, downtime, and running hours, as well as average running hours, frequency of trouble occurred for each machine and trouble type. 
+This project is expected to build a production monitoring dahsboard that provides quick overview of production performance. 
 
 ## Summary ##
 
